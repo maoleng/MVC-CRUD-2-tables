@@ -1,7 +1,5 @@
-<h1>Thêm sinh viên</h1>
-
-<form action="?action=store" method="post">
-    Tên
+<form action="?action=store&controller=students" method="post">
+    Tên lớp
     <br>
     <input type="text" name="name">
     <br>
